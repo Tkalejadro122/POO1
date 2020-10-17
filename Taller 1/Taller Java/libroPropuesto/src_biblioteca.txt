@@ -1,0 +1,9 @@
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\GUIGenerator.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\Libro.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\LibroEjecutable1.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\LibroEjecutable2.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\LibroEjecutable3.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\Pantalla.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\Shell.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\Teclado.java
+E:\2007\clasesII2007\usb\preparando\biblioteca\codigo\VistaLibro.java

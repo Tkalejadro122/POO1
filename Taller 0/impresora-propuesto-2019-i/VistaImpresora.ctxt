@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=VistaImpresora
+comment0.text=\r\n\ Esta\ clase\ es\ la\ interfaz\ gr\u00E1fica\ GUI\ de\ un\ ejemplo\ sencillo\ \r\n\ para\ simular\ una\ impresora.\ Se\ usa\ la\ clase\ JFrame\ proporcionada\ por\ Java.\r\n\ @author\ (Milton\ Jes\u00FAs\ Vera\ Contreras\ -\ mjvera@bari.ufps.edu.co)\ \r\n\ @version\ Math.sin(Math.PI-Double.MIN_VALUE)\ \:)\ Agosto\ 2007\r\n
+comment1.params=
+comment1.target=VistaImpresora()
+comment1.text=La\ vista\ recibe\ un\ objeto\ del\ modelo
+comment2.params=control
+comment2.target=void\ setControl(ControlImpresora)
+comment2.text=\r\n\ Asocia\ a\ la\ vista\ el\ controlador,\ que\ maneja\ los\ eventos\ del\ usuario.\r\n
+comment3.params=
+comment3.target=void\ initComponents()
+comment3.text=\ \r\n\ Inicializa\ la\ GUI,\ se\ encarga\ de\ crear\ los\ botones\r\n\ y\ las\ etiquetas\ de\ texto\ y\ definir\ la\ apariencia\ de\ la\ ventana\r\n
+comment4.params=tinta\ hojas\ paginasPendientesPorImprimir\ estaAtascadaPorPapel\ estaAtascadaPorTinta
+comment4.target=void\ actualizarGUI(int,\ int,\ int,\ boolean,\ boolean)
+comment4.text=Un\ m\u00E9todo\ que\ actualiza\ la\ vista\ desde\ el\ modelo
+numComments=5

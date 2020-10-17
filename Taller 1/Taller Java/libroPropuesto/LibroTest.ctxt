@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LibroTest
+comment0.text=\r\n\ Pruebas\ de\ la\ clase\ Libro\ \r\n\ \r\n\ @author\ (Milton\ Jes\u00FAs\ Vera\ Contreras\ -\ miltonjesusvc@ufps.edu.co)\r\n\ @version\ 0.000000000000001\ \:)\ -->\ Math.sin(Math.PI-Double.MIN_VALUE)\r\n
+comment1.params=
+comment1.target=LibroTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ LibroTest\r\n
+comment10.params=
+comment10.target=void\ testCambiarNumeroDeCopias()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ testPrestar()
+comment5.params=
+comment5.target=void\ testPrestaryNumeroDeCopiasDisponibles()
+comment6.params=
+comment6.target=void\ testPrestaryNumeroDeCopiasPrestadas()
+comment7.params=
+comment7.target=void\ testDevolver()
+comment8.params=
+comment8.target=void\ testDevolveryNumeroDeCopiasDisponibles()
+comment9.params=
+comment9.target=void\ testDevolveryNumeroDeCopiasPrestadas()
+numComments=11

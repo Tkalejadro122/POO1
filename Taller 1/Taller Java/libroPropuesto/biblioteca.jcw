@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>biblioteca</label>
+	</settings>
+	<users>
+		<user>
+			<path>biblioteca.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>biblioteca.jcp</path>
+		</project>
+	</projects>
+</workspace>
