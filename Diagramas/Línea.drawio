@@ -1,1 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T01:07:12.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63" version="13.7.6" etag="UolDjoMnOF5JaXOXNvYD" type="github"><diagram id="PU6lmzJDKx2NeRArsREj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-18T19:52:03.095Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36 Edg/86.0.622.43" etag="Kwd8LxrLvcEXGDb-bRnU" version="13.8.0" type="github">
+  <diagram id="PU6lmzJDKx2NeRArsREj" name="Page-1">
+    <mxGraphModel dx="716" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4000" pageHeight="3000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-1" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;La OO para sistemas de cómputo&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Organizar nuestro &lt;font style=&quot;font-size: 16px;&quot;&gt;conocimiento&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-4" value="Lenguaje de programación (OOPL)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-5" value="Organizar nuestras ideas con respecto a nuestro mundo." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-6" value="Índice de nuestro conocimiento." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1060" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-7" value="Reglas, lógicas, funciones, lenguajes relacionales, etc." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1140" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-8" value="Método para organizar e interconectar diferentes tecnologías de Software." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-9" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Las OO no se limitan a los sistemas de información&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-10" value="Sistema para transferencia de existencias" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-11" value="Procesos que realiza" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-12" value="Automatización de cualquier tipo de proceso" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="960" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-13" value="Desarrollar o implementar soluciones de Software para la organización" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1040" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-14" value="Utilizar la OO como filosofía de desarrollo" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1140" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-15" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;La OO para sistemas en general&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-16" value="Conocer si un enfoque OO puede aplicar con efectividad a los sistemas empresariales en general" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="880" y="800" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-17" value="La OO surgió de la necesidad de simular sistemas de forma más sencilla." style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="880" y="900" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-18" value="La orientación a objetos proporciona una forma de construir cualquier tipo de sistema" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="880" y="1000" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-19" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;La necesidad de fundamentos&lt;/font&gt;&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=3;glass=0;sketch=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-20" value="Los sistemas surgen de la mente de las personas que sirven a otras personas" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="800" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-21" value="Los elementos fundamentales nos sirven para crear construcciones más complejas&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="900" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-22" value="Nuestro mundo conceptual está representado en términos de nuestros fundamentos formales" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=16;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="1000" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-23" value="&lt;h2&gt;Introducción&lt;/h2&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=3;fillColor=#f8cecc;fontFamily=Times New Roman;fontSize=16;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="680" y="480" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NBEHBXQoSqpypMNjhcnn-25" value="" style="endArrow=none;html=1;fontFamily=Times New Roman;fontSize=16;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="NBEHBXQoSqpypMNjhcnn-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="600" as="sourcePoint" />
+            <mxPoint x="1090" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
